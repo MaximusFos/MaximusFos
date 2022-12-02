@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @MaximusFos
-- 👀 I’m interested in bread 
-- 🌱 I’m currently learning bread
-- 💞️ I’m looking to collaborate on bread
-- 📫 How to reach me ...... bread
+- 👀 I’m interested in phonk
+- 🌱 I’m currently learning phonk
+- 💞️ I’m looking to collaborate on phonk
+- 📫 How to reach me ...... phonk
 
-bread
+phonk
 
 <!---
 MaximusFos/MaximusFos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
